@@ -18,7 +18,5 @@ public class CheckoutPage extends Base
 		
 		String Text = checkoutpageLinks.getfirstProductSelected().getText();
 		System.out.println(Text);
-		System.out.println(Text);
-		
 	}
 }
